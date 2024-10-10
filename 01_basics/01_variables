@@ -1,0 +1,16 @@
+const accountId = 144553
+let accountEmail = "anurag117@google.com"
+var accountPassword = "123"
+accountCity = "pune"
+accountEmail = "raj@yt.com"
+ accountPassword = "222332"
+ accountCity = "rajkot"
+console.log(accountId); 
+let accountState;
+
+
+/*
+sdwdd123
+*/
+
+console.table([accountId, accountEmail, accountPassword,accountCity,accountState])
